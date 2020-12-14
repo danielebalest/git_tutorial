@@ -1,1 +1,1 @@
-console.log(Helllo gitHub)
+console.log("Hello gitHub")
